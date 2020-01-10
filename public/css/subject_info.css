@@ -1,0 +1,1085 @@
+
+.Smain {
+    height: auto;
+    margin: 0 auto;
+    padding-top: 81px;
+    position: relative;
+    width: 960px;
+    z-index: 10;
+
+}
+.navM {
+    height: 20px;
+    line-height: 20px;
+    margin-top: 4px;
+    width: 960px;
+}
+@-moz-document url-prefix("") {
+.navM {
+    margin-top: 3px;
+}
+}
+.navM ol li {
+    color: #fff;
+    float: left;
+}
+.navM ol li a {
+    color: #fff;
+    font-size: 14px;
+}
+.Sbanner {
+    border: 10px solid #fff;
+    height: 180px;
+    margin: 10px auto;
+    width: 694px;
+}
+.Sbannersb {
+    height: 248px;
+    margin: 0px auto;
+    width: 960px;
+}
+.Sbannersb img {
+    height: 248px;
+    width: 960px;
+}
+.Sbanner img {
+    height: 180px;
+    width: 694px;
+}
+.container {
+    display: block;
+    float: left;
+    height: auto;
+    width: 960px;
+}
+.newcon {
+    width: 1000px;
+}
+.container p {
+    color: #c1c0bb;
+    float: left;
+    font-size: 14px;
+    height: 20px;
+    line-height: 20px;
+}
+.uptitle {
+    margin-bottom: 10px;
+    margin-top: 4px;
+}
+.uptitle a {
+    color: #999999;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.sector {
+    float: left;
+    height: 74px;
+    margin: 10px 0 20px;
+    width: 234px;
+}
+.sectors {
+    float: left;
+    height: 74px;
+    margin: 10px 8px 20px 24px;
+}
+.sectors p {
+    float: left;
+}
+.sectors p img {
+    height: 74px;
+    width: 74px;
+}
+.sectors ol {
+    float: left;
+    height: 72px;
+    margin-left: 12px;
+    margin-top: -6px;
+    width: 122px;
+}
+.sectors ol li {
+    color: #989898;
+    font-size: 12px;
+    height: 24px;
+    line-height: 24px;
+    max-width: 118px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-break: normal;
+    word-wrap: normal;
+}
+.sectors ol li a {
+    color: #686868;
+    font-size: 13px;
+}
+.sector ol li a img {
+    height: 22px;
+    width: 75px;
+}
+.sector p {
+    float: left;
+}
+.sector p img {
+    height: 74px;
+    width: 74px;
+}
+.sector ol {
+    float: left;
+    height: 72px;
+    margin-left: 10px;
+    width: 75px;
+}
+.sector ol li {
+    color: #989898;
+    font-size: 12px;
+    height: 24px;
+    line-height: 24px;
+}
+.sector ol li a {
+}
+.sector ol li a img {
+    height: 22px;
+    width: 75px;
+}
+.top_bg {
+    height: 470px;
+    left: 0;
+    position: absolute;
+    top: 80px;
+    width: 100%;
+    z-index: 1;
+}
+.wrapper {
+    background-color: #fff;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom: 5px;
+    text-align: left;
+    width: 960px;
+}
+.s_banner {
+    height: 248px;
+}
+.s_banner img {
+    height: 248px;
+    width: 960px;
+}
+.s_text {
+    padding: 35px 50px;
+    background: #fff;
+}
+.s_text p {
+    color: #686868;
+    font-size: 14px;
+    line-height: 30px;
+    text-indent: 2em;
+}
+.s_box1 {
+    overflow: hidden;
+    padding: 5px 30px 0;
+    width: 960px;
+}
+.s_box1 h3 {
+    background: #fff url("http://c12.eoemarket.net/static/Images/line1.gif") repeat-x scroll 0 2px;
+    clear: both;
+    color: #999;
+    font-size: 13px;
+    height: 20px;
+    margin: 0 0 20px;
+    width: 900px;
+}
+.s_box1 h3 span {
+    background-color: #fff;
+    display: inline-block;
+    padding-right: 10px;
+}
+.s_app_box {
+    float: left;
+    height: 110px;
+    margin: 0 30px 25px 0;
+    width: 280px;
+}
+.s_img {
+    float: left;
+    margin-right: 10px;
+    width: 75px;
+}
+.s_img img {
+    display: block;
+    height: 72px;
+    margin: 0 auto 10px;
+    width: 72px;
+}
+.s_img .s_down {
+    background: rgba(0, 0, 0, 0) url("http://c12.eoemarket.net/static/Images/d.png") no-repeat scroll 0 0;
+    display: block;
+    height: 22px;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 75px;
+}
+.s_img a:hover {
+    background: rgba(0, 0, 0, 0) url("http://c12.eoemarket.net/static/Images/downBtnHover.png") no-repeat scroll 0 0;
+}
+.s_list {
+}
+.s_list li {
+    color: #999;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.s_list li a {
+    color: #686868;
+    font-size: 13px;
+    font-weight: bold;
+}
+.s_list li span {
+    margin-right: 20px;
+}
+.s_list li p {
+    line-height: 20px;
+}
+.navM2 ol li a, .navM2 ol li {
+    color: #fff;
+}
+
+
+
+
+/*subjects*/
+/*这个是主题*/
+*html{
+background-image:url(about:blank);
+background-attachment:fixed;
+}
+.Secmain{
+	width:960px;
+	margin:0 auto;
+	padding-bottom:20px;
+	padding-top:50px;
+	/* +padding-bottom:0px;
+	+padding-top:28px; */
+}
+/* 这个是专题列表的面包屑 */
+.Crumbs{
+	position: absolute;
+	top:0;
+	left:0;
+	z-index: -1;
+	height:auto;
+	font-size:12px;
+}
+.cheight{
+	height:40px;
+}
+.container{
+	width:928px;
+	padding-left:0px;
+	margin-bottom:5px;
+}
+/*这个是哪个下载*/
+.sectorbs{
+	float: left;
+	padding-bottom:20px;
+    width: 236px;
+}
+.sectorbs li{
+	font-size: 12px;
+	color: #A9A9A9;
+}
+.sectorbs li a{
+	word-break:normal;
+    word-wrap:normal;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+	display:block;
+	height: 24px;
+	line-height: 24px;
+	line-height:22px\9;
+	+height:22px;
+	max-width:122px;
+	_width:122px;
+	font-size:13px;
+	color:#686868;
+}
+.sectorbs p{
+	float: left;
+    height: 72px;
+}
+.sectorbs ol{
+ 	float: left;
+    margin-left: 10px;
+    width: 108px;
+	margin-top:-5px;
+}
+.sectorbs ol li{
+	height:26px;
+	line-height:26px;
+}
+.sectorbs li a{
+ overflow:hidden;
+}
+.bsT img{
+	width:72px;
+	height:72px;
+	+padding-top:2px;
+	/*margin:10px 0 0 10px;*/
+}
+.bsA img{
+	width:75px;
+	height:22px;
+}
+/*到了这里就结束了*/
+.chide{
+	width:222px;
+	height:22px;
+	line-height:22px;
+	margin-top:2px;
+}
+.chide a{
+	float:right;
+	float:left;
+}
+.chide p{
+	width:110px;
+	float:left;
+	height:22px;
+	line-height:23px;
+}
+.cheng{
+	padding-left:10px;
+	padding-right:3px;
+	+margin-top:-2px;
+}
+.cheng a{
+	height:22px;
+	line-height: 22px;
+}
+.hideS{
+	width: 210px;
+	height: 50px;
+	background: none repeat scroll 0 0 rgba(29, 29, 29, 0.7);
+	position: absolute;
+	left: 10px;
+	text-indent: 1em;
+	bottom: 95px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	line-height: 46px;
+	color: #FFF;
+	word-break:normal;
+	word-wrap:normal;
+}
+.hide{
+	width: 210px;
+	height:40px;
+	/* background: none repeat scroll 0 0 rgba(29, 29, 29, 0.7); */
+	background:url(http://c12.eoemarket.net/static/Images/zt1.png);
+	position: absolute;
+	left: 10px;
+	text-indent: 1em;
+	bottom: 95px;
+/* 	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap; */
+	line-height:39px;
+	color:#FFF;
+	/* padding-top:10px; */
+}
+.hide a{
+	color: #FFF;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 194px;
+	text-overflow: ellipsis;
+	word-break:normal;
+	word-wrap:normal;
+}
+.name{
+	float:left;
+	width:32px;
+	height:32px;
+	width:960px;
+	margin-top:10px;
+}
+.name ol li{
+	width:32px;
+	height:32px;
+	background:#FFF;
+	float:left;
+	text-align:center;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+.line{
+	background: #FFF;
+	width: 960px;
+	height: 3px;
+	_height: 3px;
+	overflow: hidden;
+	position: relative;
+	top:11px;
+	+top:10px;
+}
+
+.HHH{
+	width: 900px;
+   margin: 0 0 20px;
+   font-size: 13px;
+   color: #999;
+   height: 20px;
+   clear: both;
+}
+
+.HHH span{
+    background-color: #fff;
+  padding-right: 10px;
+  display: inline-block;
+}
+/****/
+.sector{
+	width: 230px;
+	height: 398px;
+	background: #FFF;
+	/* margin-top: 10px;
+	margin-left: 10px; */
+	margin:10px 5px 0 5px;
+	_margin:10px 4px 0 4px;
+	position: relative;
+	float: left;
+}
+.sectorS{
+	/* background: #FFF;
+	border: 1px solid #FFF; */
+	behavior: url(http://c12.eoemarket.net/static/css/PIE.htc);/* 通知IE浏览器调用脚本作用于'box'类 */
+	-webkit-box-shadow: 0px 1px 5px #A8A8A8;/* Safari 和 Chrome */
+	box-shadow: 0 1px 5px #A8A8A8;/* Opera 10.5+, 以及使用了IE-CSS3的IE浏览器 */
+	-moz-box-shadow:#A8A8A8 0px 1px 5px;/* Firefox */
+	/* position: relative; */
+/* 	height:398px;
+	margin:-1px -1px -1px -1px;
+	float: left;
+	border:none\9;
+	border-top:1px solid #e3e3e3\9;
+	border-left:1px solid #cccccc\9;
+	border-right:1px solid #cccccc\9;
+	border-bottom:1px solid #cccccc\9; */
+}
+.sector li{
+	margin-left:4px;
+	margin-right:4px;
+	font-size:12px;
+	color:#A9A9A9;
+}
+.sector li span{
+	float:left;
+	margin: -5px 8px 0 4px;
+}
+.sector li a{
+	color: #A9A9A9;
+	/*line-height: 20px;
+	height: 20px;*/
+	float:none;
+}
+.chide a{
+	float:right;
+	color:#999999;
+	height:22px;
+	line-height:23px;
+}
+.sector img{
+	width:210px;
+	height:293px;
+	margin:10px 0 0 6px;
+}
+.sector span img{
+	width:22px;
+	height:13px;
+}
+/************************/
+.BBj{
+	border: 1px solid #cccccc;
+	width:228px;
+	height:396px;
+	-webkit-box-shadow: 1px 0px 8px #cccccc;
+}
+#softDiv2 .nulijiaz{
+	float:left;
+  font-size:14px;
+  display:block;
+  width:960px;
+  height:18px; 
+  line-height:18px; 
+  color:#999999; 
+  font-family:"微软雅黑"; 
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:-5px; 
+}
+.fenye{
+	float:left;
+	text-align:center;
+	margin-top:15px;
+	width:100%;
+}
+/*********图片*******/
+.hoverImg{
+	width:75px;
+	height:22px;
+	display:none;
+}
+*html{
+background-image:url(about:blank);
+background-attachment:fixed;
+}
+.Secmain{
+	width:960px;
+	margin:0 auto;
+	padding-bottom:20px;
+	padding-top:50px;
+	/* +padding-bottom:0px;
+	+padding-top:28px; */
+}
+/* è¿™ä¸ªæ˜¯ä¸“é¢˜åˆ—è¡¨çš„é¢åŒ…å±‘ */
+.Crumbs{
+	position: absolute;
+	top:0;
+	left:0;
+	z-index: -1;
+	height:auto;
+	font-size:12px;
+}
+.cheight{
+	height:40px;
+}
+.container{
+	width:928px;
+	padding-left:0px;
+	margin-bottom:5px;
+}
+.chide{
+	width:222px;
+	height:22px;
+	line-height:22px;
+	margin-top:2px;
+}
+.chide a{
+	float:right;
+	float:left;
+}
+.chide p{
+	width:110px;
+	float:left;
+	height:22px;
+	line-height:23px;
+}
+.cheng{
+	padding-left:10px;
+	padding-right:3px;
+	+margin-top:-2px;
+}
+.cheng a{
+	height:22px;
+	line-height: 22px;
+}
+.hide{
+	width: 210px;
+	height:40px;
+	/* background: none repeat scroll 0 0 rgba(29, 29, 29, 0.7); */
+	background:url(http://c12.eoemarket.net/static/Images/zt1.png);
+	position: absolute;
+	left: 10px;
+	text-indent: 1em;
+	bottom: 115px;
+/* 	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap; */
+	line-height:39px;
+	color:#FFF;
+	/* padding-top:10px; */
+}
+.hide a{
+	color: #FFF;
+	display: block;
+	white-space: nowrap;
+	overflow: hidden;
+	width: 194px;
+	text-overflow: ellipsis;
+	word-break:normal;
+	word-wrap:normal;
+}
+
+.line{
+	background: #FFF;
+	width: 960px;
+	height: 3px;
+	_height: 3px;
+	overflow: hidden;
+	position: relative;
+	top:11px;
+	+top:10px;
+}
+
+.sector{
+	width: 230px;
+	height: 420px;
+	background: #FFF;
+	/* margin-top: 10px;
+	margin-left: 10px; */
+	margin:10px 5px 0 5px;
+	_margin:10px 4px 0 4px;
+	position: relative;
+	float: left;
+}
+.sectorS{
+	/* background: #FFF;
+	border: 1px solid #FFF; */
+	behavior: url(http://c12.eoemarket.net/static/css/PIE.htc);/* é€šçŸ¥IEæµè§ˆå™¨è°ƒç”¨è„šæœ¬ä½œç”¨äºŽ'box'ç±» */
+	-webkit-box-shadow: 0px 1px 5px #A8A8A8;/* Safari å’Œ Chrome */
+	box-shadow: 0 1px 5px #A8A8A8;/* Opera 10.5+, ä»¥åŠä½¿ç”¨äº†IE-CSS3çš„IEæµè§ˆå™¨ */
+	-moz-box-shadow:#A8A8A8 0px 1px 5px;/* Firefox */
+	/* position: relative; */
+/* 	height:398px;
+	margin:-1px -1px -1px -1px;
+	float: left;
+	border:none\9;
+	border-top:1px solid #e3e3e3\9;
+	border-left:1px solid #cccccc\9;
+	border-right:1px solid #cccccc\9;
+	border-bottom:1px solid #cccccc\9; */
+}
+
+.sector li{
+	margin-left:4px;
+	margin-right:4px;
+	font-size:12px;
+	color:#A9A9A9;
+	overflow:hidden;
+}
+.sector li span{
+	float:left;
+	margin: -5px 8px 0 4px;
+}
+.sector li a{
+	color: #A9A9A9;
+	/*line-height: 20px;
+	height: 20px;*/
+	float:none;
+}
+.chide a{
+	float:right;
+	color:#999999;
+	height:22px;
+	line-height:23px;
+}
+.sector img{
+	width:210px;
+	height:293px;
+	margin:10px 0 0 6px;
+}
+.sector span img{
+	width:22px;
+	height:13px;
+}
+
+.fenye{
+	float:left;
+	text-align:center;
+	margin-top:15px;
+	width:100%;
+}
+.layoutDiv {
+    width: 100%;
+    min-height: 100%;
+    text-align: center;
+}
+
+.homeBgDiv {
+    margin: 0 auto;
+    width: 1100px;
+    min-width: 1100px;
+    margin-top: 20px;
+    /* background-color: rgba(0, 0, 0, 0); */
+
+}
+
+
+.topContentDiv {
+    width: 100%;
+    height: 320px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.topContentLeftDiv {
+    width: 740px;
+}
+
+.topContentLeftImg {
+    width: 100%;
+    height: 320px;
+}
+
+.topContentRightDiv {
+    width: 360px;
+    height: 320px;
+    /* background-color: #45505c; */
+
+}
+
+.specialTitle {
+    margin-left: 25px;
+    margin-top: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    text-align: left;
+    color: white;
+}
+
+.specialDesc {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align: left;
+    height: 220px;
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    line-clamp: 6;
+    -webkit-box-orient: vertical;
+}
+
+
+.bottomContentDiv {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.bottomContentLeftDiv {
+    width: 720px;
+}
+
+.bottomContentRightDiv {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 360px;
+    height: 320px;
+}
+
+.bottomContentRightTopDiv {
+    width: 100%;
+    height: 270px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.cardItemBgDiv {
+    width: 100%;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.cardImage {
+    width: 100%;
+    height: 240px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.cardBottomDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 110px;
+}
+
+.cardBottomDivCircular {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 110px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.cardBottomLeft {
+    width: 100px;
+    height: 110px;
+    line-height: 110px;
+}
+
+.cardBottomLeftImage {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 70px;
+    height: 70px;
+}
+
+.cardBottomRight {
+    width: 520px;
+}
+
+.cardBottomRightTitle {
+    margin-top: 17px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    color: #333333;
+}
+
+.cardBottomRightScore {
+    margin-top: 4px;
+    margin-left: 10px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.pinLunImg {
+    float: left;
+    width: 20px;
+    height: 16px;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.pinLunNumb {
+    float: left;
+    width: 120px;
+    height: 16px;
+    font-size: 16px;
+    line-height: 16px;
+    color: #2fa4ff;
+    margin-left: 5px;
+}
+
+.shouCangImg {
+    float: left;
+    margin-left: 40px;
+    width: 20px;
+    height: 16px;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.shouCangCount {
+    float: left;
+    width: 200px;
+    height: 16px;
+    font-size: 16px;
+    line-height: 16px;
+    color: #2fa4ff;
+    margin-left: 5px;
+}
+
+.cardBottomRightDesc {
+	margin-top: 5px;
+	margin-left: 10px;
+	text-align: left;
+	font-size: 14px;
+	color: #666666;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	text-indent: 2em;
+}
+
+.downloadDiv {
+    width: 70px;
+    height: 110px;
+    position: relative;
+}
+
+.downloadBtn {
+    position: absolute;
+    width: 70px;
+    height: 24px;
+    background-color: #2fa4ff;
+    border-radius: 12px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    line-height: 24px;
+    font-size: 16px;
+}
+
+
+.cardTitle {
+    text-align: left;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.cardTime {
+    text-align: right;
+    font-size: 14px;
+    height: 16px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    color: #999999;
+    margin-top: 5px;
+}
+
+.cardDesc {
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-align: left;
+    letter-spacing: 1px;
+    color: #666666;
+    font-size: 14px;
+}
+
+
+.typeDiv {
+    padding: 3px;
+    padding-left: 20px;
+    float: left;
+}
+
+.typeTitle1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 17px;
+    height: 29px;
+    font-size: 13px;
+    line-height: 27px;
+}
+
+
+.newReview {
+    margin-top: 20px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.newReviewTopView {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.newReviewTopIcon {
+    margin-left: 20px;
+    width: 4px;
+    height: 16px;
+    background-color: #2fa4ff;
+    border-radius: 2px;
+}
+
+.newReviewTopTitle {
+    margin-left: -245px;
+    font-size: 16px;
+    color: #333333;
+}
+
+.newReviewItem {
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 135px;
+    background-color: white;
+}
+
+.newReviewTopLine {
+    width: 100%;
+    height: 1px;
+    border: dashed 1px #e1e1e1;
+}
+
+.newReviewTopDiv {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.newReviewImage {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.newReviewTitleAndStar {
+    width: 220px;
+    height: 50px;
+}
+
+.newReviewTitle {
+    width: 220px;
+    text-align: left;
+    margin-left: 11px;
+    margin-top: 10px;
+}
+
+.newReviewStar {
+    width: 220px;
+    text-align: left;
+    margin-left: 11px;
+    margin-top: 8px;
+}
+
+.newReviewStarImg {
+    width: 16px;
+    height: 16px;
+    text-align: left;
+}
+
+.newReviewDescDiv {
+    font-size: 14px;
+    text-align: left;
+    color: #666666;
+    text-overflow: -o-ellipsis-lastline;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.newReviewName {
+    text-align: right;
+    color: #2fa4ff;
+    font-size: 14px;
+}
+
+.cardDiv {
+    /* margin: 10px; */
+    /* background-color: white; */
+    border-radius: 10px;
+}
