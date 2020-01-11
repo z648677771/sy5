@@ -870,7 +870,7 @@ background-attachment:fixed;
     height: 16px;
     font-size: 16px;
     line-height: 16px;
-    color: #2fa4ff;
+    color: #00e2df;
     margin-left: 5px;
 }
 
@@ -889,7 +889,7 @@ background-attachment:fixed;
     height: 16px;
     font-size: 16px;
     line-height: 16px;
-    color: #2fa4ff;
+    color: #00e2df;
     margin-left: 5px;
 }
 
@@ -917,7 +917,7 @@ background-attachment:fixed;
     position: absolute;
     width: 70px;
     height: 24px;
-    background-color: #2fa4ff;
+    background-color: #00e2df;
     border-radius: 12px;
     top: 50%;
     left: 50%;
@@ -997,7 +997,7 @@ background-attachment:fixed;
     margin-left: 20px;
     width: 4px;
     height: 16px;
-    background-color: #2fa4ff;
+    background-color: #00e2df;
     border-radius: 2px;
 }
 
@@ -1074,7 +1074,7 @@ background-attachment:fixed;
 
 .newReviewName {
     text-align: right;
-    color: #2fa4ff;
+    color: #00e2df;
     font-size: 14px;
 }
 

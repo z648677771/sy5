@@ -22,9 +22,9 @@ div.navb{ margin-left: 60px;}
 .navb .menub .menu_itemb:hover .sub_menu{ display: block; width: 600px;  text-align: left; font-weight:normal; padding:20px 15px; background: #23303c; height:auto;}
 .navb .menub .menu_itemb:hover .sub_menu .sub_menu_item{ float: left; width: 300px; background: #23303c; }
 .sub_menu a{ color: #aeb9c6;}
-.sub_menu_item p a{ margin:3px; color: #fff;  display:block; width:277px; border-left:#2fa4ff solid 3px; padding-left:10px; font-size:14px;height:17px; line-height:17px; }
+.sub_menu_item p a{ margin:3px; color: #fff;  display:block; width:277px; border-left:#00e2df solid 3px; padding-left:10px; font-size:14px;height:17px; line-height:17px; }
 .sub_menu_item a{ margin:3px 0px 3px 16px;font-size:12px;white-space:nowrap; display: block; float: left; height:15px; line-height:15px;  }
-.sub_menu_item a:hover{color:#2fa4ff;}
+.sub_menu_item a:hover{color:#00e2df;}
 
 .searchb{ width: 232px; height: 30px;background: url(http://c12.eoemarket.net/static/Images/icon_index.png) -279px -95px no-repeat;  margin-left: 93px; margin-top:20px; position: relative;  }
 .sear_t{ height: 26px; width: 186px;  margin-left:12px; margin-top:1px; border: none;border:0;  outline: none; font-size: 13px; padding-top:2px; line-height:26px; color:#c2c2c2;}
@@ -54,7 +54,7 @@ div.navb{ margin-left: 60px;}
 
 .comlink{ width: 1100px; height: auto; overflow:hidden;}
 .comlink a,.comlinks a{ overflow: hidden; display: block; width: 110px; height: 20px; line-height: 20px; font-size: 12px; color: #8e9eae; text-align: left; float: left;}
-.comlink a:hover,.comlinks a:hover{ color: #2fa4ff;}
+.comlink a:hover,.comlinks a:hover{ color: #00e2df;}
 .comlinks{ width: 1100px; height:20px;*margin-bottom: -5px;overflow: hidden; }
 .other_info,.other_info a{color: #b6c5d3; font-size: 12px;}
 .other_info{ text-align: center;}
@@ -291,7 +291,7 @@ div.passwp_ncode img{margin-top: 2px;margin-right: 5px;}
 .wranalert_infoc{ display: block; width: 238px; margin: 0px 0px 0px 144px; text-align: left;}
 /*登录成功的样式*/
 .checkbox{ display: none; float: left; margin-left: 24px; position: relative; height: 70px; line-height: 70px;}
-.checkbtn{ width: 50px; height: 25px; line-height: 25px; margin-top: 22px; background: #2fa4ff; color: #fff; display: none; float: left;border-radius: 3px; -moz-border-radius:3px; -webkit-border-radius:3px; cursor: pointer;  margin-left: 20px;}
+.checkbtn{ width: 50px; height: 25px; line-height: 25px; margin-top: 22px; background: #00e2df; color: #fff; display: none; float: left;border-radius: 3px; -moz-border-radius:3px; -webkit-border-radius:3px; cursor: pointer;  margin-left: 20px;}
 .faceheader{ padding: 18px 10px 18px 40px;display: block; float: left; cursor: pointer; width: 34px; height: 34px; overflow: hidden;}
 .faceheader img{-moz-border-radius: 50%;-webkit-border-radius: 50%; border-radius: 50%; width:34px; height:34px; }
 /*鼠标划过头像的下拉菜单*/
@@ -304,7 +304,7 @@ div.passwp_ncode img{margin-top: 2px;margin-right: 5px;}
 .alertlogin_c{ width: 290px; background: #fff; height: auto;}
 .alertlogin_t{ text-align: center; width: 100%; overflow: hidden;  font-size: 20px; font-weight: bolder; color: #aaaaaa;cursor: pointer;}
 .alertlogin_t span{ display: block; float: left; line-height: 60px; width: 50%;border-bottom: #aaaaaa solid 1px;}
-.alertlogin_t span.select_alert{ color: #2fa4ff; border-bottom: #2fa4ff solid 2px;}
+.alertlogin_t span.select_alert{ color: #00e2df; border-bottom: #00e2df solid 2px;}
 .alertlogin_phone,.alertlogin_paw,.alertreg_card,.alertreg_name,.alertreg_code,.alertlogin_code,.alertlogin_ncode{ position: relative; border: #c8c8c8 solid 1px; border-radius: 5px; width: 288px; height: 50px; margin-bottom: 25px; }
 .alertlogin_ncode{width: 278px;padding-left: 10px;}
 .activate_ncode input{height: 34px;line-height: 34px;text-indent: 8px;}
@@ -327,8 +327,8 @@ b.alertlogin_warn{ text-align: left; display: block; font-weight: normal; line-h
 .alertlogin_automatic img{ width: 14px; height: 14px;}
 .alertlogin_automatic img,.alertlogin_automatic em{ float: left; margin-right: 10px;}
 .alertlogin_forget{cursor: pointer; float: right; text-align: right;}
-.alertlogin_btn{ background: #2fa4ff; font-size: 20px; font-weight: bolder;width: 100%; height: 50px; line-height: 50px; border: 0px; border-radius: 5px; color: #fff; margin-top: 15px;}
-.alertlogin_reg,.alertreg_login{cursor: pointer;font-size: 14px; color: #2fa4ff; text-align: right; font-weight: bolder; margin-top: 10px;}
+.alertlogin_btn{ background: #00e2df; font-size: 20px; font-weight: bolder;width: 100%; height: 50px; line-height: 50px; border: 0px; border-radius: 5px; color: #fff; margin-top: 15px;}
+.alertlogin_reg,.alertreg_login{cursor: pointer;font-size: 14px; color: #00e2df; text-align: right; font-weight: bolder; margin-top: 10px;}
 .alertlogin_reg span{ display: inline-block; cursor: pointer;}
 .otherway_logint{ background: url(http://c13.eoemarket.net/static/Images/bg_line.png) repeat-x center center; text-align: center; margin-top: 15px;}
 .otherway_logint span{ display: block; width: 110px; height: 18px; background: #fff; font-size: 14px; color: #b3b3b3;}
@@ -339,20 +339,20 @@ b.alertlogin_warn{ text-align: left; display: block; font-weight: normal; line-h
 .hide{ display: none;}
 .alertreg_card{background:url(http://c12.eoemarket.net/static/Images/icon_login.png) -0px -147px no-repeat;}
 .alertreg_name{background:url(http://c12.eoemarket.net/static/Images/icon_login.png) -0px -218px no-repeat;}
-.alertreg_btn{background: #2fa4ff; font-size: 20px; font-weight: bolder;width: 100%; height: 50px; line-height: 50px; border: 0px; border-radius: 5px; color: #fff;}
+.alertreg_btn{background: #00e2df; font-size: 20px; font-weight: bolder;width: 100%; height: 50px; line-height: 50px; border: 0px; border-radius: 5px; color: #fff;}
 .alertreg_codec,.alertlogin_ncode_t{ display: block; position: relative; float: left; width: 170px; height: 50px; line-height: 50px; margin-left: 10px;}
 .alertreg_codec em,.alertlogin_ncode em{display: block; font-size: 15px; color: #aaaaaa;position: absolute; top: 0px; left: 0px; }
 .alertlogin_ncode em{margin-left: 10px;height: 50px;line-height: 50px;}
 .alertreg_codec input,.alertlogin_ncode input{ display: block; width: 168px; height: 48px; line-height: 48px;border: 0px; font-size: 15px; color: #aaaaaa;}
-.alertreg_codeb{ cursor: pointer; font-weight: bolder; line-height: 50px; text-align: center; display: block; float: right; border: 0px; width: 102px; height: 50px; background: #2fa4ff; color: #fff;}
+.alertreg_codeb{ cursor: pointer; font-weight: bolder; line-height: 50px; text-align: center; display: block; float: right; border: 0px; width: 102px; height: 50px; background: #00e2df; color: #fff;}
 .alertreg_codeb em{ display: inline-block;}
 .alertlogin_code { margin-top: 0px;  overflow: inherit;}
 .alertlogin_code span{ border: 0; margin: 0px; text-align:left; width: 190px;  display: block; line-height: 50px;position: absolute; top: 0px; left: 10px; font-size: 15px; color: #aaaaaa; z-index: 3;}
 .alertlogin_code input{ float: left; margin-left: 10px; border: 0px; line-height: 48px; display: block; width: 190px;font-size: 15px; color: #aaaaaa; }
-.alertlogin_code img,.alertlogin_ncode img{float: right; margin:8px 10px 0px 0px; width: 68px; height: 30px; border: #2fa4ff solid 1px;}
+.alertlogin_code img,.alertlogin_ncode img{float: right; margin:8px 10px 0px 0px; width: 68px; height: 30px; border: #00e2df solid 1px;}
 .alertlogin_ncode img{position: absolute;top: 0;right: 0;}
 .alertreg_reg{ display: none;}
-.reg_xie_yi_span a{ color: #2fa4ff;}
+.reg_xie_yi_span a{ color: #00e2df;}
 /*悬浮广告结束*/
 .guide_regc{ display: none; width: 190px; height: 220px;  position:fixed; bottom:0px; right:0px; z-index: 90; }
 .guide_close{display: block; position: absolute; width: 24px; height: 20px; cursor: pointer; text-indent: -999px; overflow: hidden; right: 0px; top:0px;  }
@@ -368,7 +368,7 @@ b.alertlogin_warn{ text-align: left; display: block; font-weight: normal; line-h
 .advertising_downl_btn{float: right;padding-top: 26px;}
 .market_downl_btn{padding: 6px 12px;border: 1px solid transparent;border-radius: 4px;color: #FFFFFF;}
 .market_downl_btn:nth-child(1){background: #02b14f;border-color: #02b14f;}
-.market_downl_btn:nth-child(2){background: #2fa4ff;border-color: #2fa4ff;}
+.market_downl_btn:nth-child(2){background: #00e2df;border-color: #00e2df;}
 .market_downl_btn:nth-child(3){background: #FFFFFF;border-color: #CCCCCC;color: #333333;}
 .suspended_advertising_close{position: absolute;top: 36px;right: 25px;}
 .suspended_advertising_close span{display: block;width: 30px;height: 30px;line-height: 30px;color: #CCCCCC;border: 1px solid #CCCCCC;border-radius: 50%;}
@@ -593,4 +593,4 @@ input,textarea{ outline: none;}
 .relative_gl_list li{line-height:30px;}
 .relative_gl_list li a{color:#555555;font-size:16px;padding-left:20px;display:block;background:url(http://c11.eoemarket.com/static/Images/sprite.gif) no-repeat 0 -638px;}
 .relative_gl_list li a{overflow:hidden;text-overflow: ellipsis;white-space: nowrap;word-break: normal;word-wrap: normal;text-align: left;}
-.relative_gl_list li a:hover{color:#2fa4ff;}
+.relative_gl_list li a:hover{color:#00e2df;}

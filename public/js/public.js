@@ -168,18 +168,18 @@ var public_index = function() {
         $(window).scroll(function () {
             if ($(window).scrollTop() > 100) {
                 $(".back").fadeIn(1500);
-                $(".head_cb,.headb,.nav_itemb,.checkbox,.login_c ").css({"height": "50px", "line-height": "50px"});
-                $(".logob img").css({"margin-top": "4px"});
+                $(".head_cb,.headb,.nav_itemb,.checkbox,.login_c ").css({"height": "70px", "line-height": "70px"});
+                // $(".logob img").css({"margin-top": "4px"});
                 $(".searchb").css({"margin-top": "10px"});
                 $(".checkbtn").css({"margin-top": "12px"});
                 $(".faceheader").css({"padding-top": "8px", "padding-bottom": "8px"});
-                $(".operat_user,.login_hover").css({"top": "50px"});
+                $(".operat_user,.login_hover").css({"top": "70px"});
                 $(".ui-autocomplete").css({"top": "40px"});
 
             } else {
                 $(".back").fadeOut(100);
                 $(".head_cb,.headb,.nav_itemb,.checkbox,.login_c ").css({"height": "70px", "line-height": "70px"});
-                $(".logob img").css({"margin-top": "14px"});
+                // $(".logob img").css({"margin-top": "14px"});
                 $(".searchb").css({"margin-top": "20px"});
                 $(".checkbtn").css({"margin-top": "22px"});
                 $(".faceheader").css({"padding-top": "18px", "padding-bottom": "18px"});
